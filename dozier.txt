@@ -1,2 +1,3 @@
-text file for dozier
-I changed the file and pushed again
+this is the first Dozier file
+stuff in it
+third line added at the end of spring break
